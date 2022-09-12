@@ -1,3 +1,4 @@
+#Shaposhnik Vladislav IB/b-21-1-o Today is 12 September
 import sys
 import tkinter
 import cv2
